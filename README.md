@@ -1,2 +1,2 @@
 # Technoblade
-hackathon 25
+Diam Hackathon 25
