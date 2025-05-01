@@ -1,4 +1,4 @@
-# ⚔️ Technoblade Smart Contracts 🐷💻
+# ⚔️ Technoblade Smart Contracts 💻
 
 Welcome, brave adventurer, to the **Technoblade Smart Contract Forge** – where code is law, and we write that law in Solidity.
 
