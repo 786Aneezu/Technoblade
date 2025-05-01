@@ -17,6 +17,16 @@ Smart Contract Generator streamlines token creation across EVM-compatible blockc
 Users simply input token details like name, symbol, type, and features. The tool auto-generates clean, deployable Solidity code using OpenZeppelin standards.
 
 
+## 🚀 Getting Started
+https://github.com/786Aneezu/Technoblade
+
+
+## USER INTERFACE LINK
+https://replit.com/join/spdqoespve-gaimashayaan
+
+## Research based google document
+https://drive.google.com/drive/folders/1Aq2fDWb4DNwHrmTVrK_W2lfKwoO05P_F?usp=drive_link
+
 ---
 
 ## 🔧 Tech Stack
@@ -24,10 +34,4 @@ Users simply input token details like name, symbol, type, and features. The tool
 - **Solidity** – For writing unstoppable code  
 - **Hardhat** – Our magical dev environment  
 - **Ethers.js** – Interacting with contracts  
-
-
----
-
-## 🚀 Getting Started
-https://github.com/786Aneezu/Technoblade
 
